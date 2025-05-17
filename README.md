@@ -40,9 +40,9 @@
 ## 🔗 Useful Links
 
 - 🌍 Website: [devsync.in](https://www.devsync.in)
-- 📬 Join Waitlist: [Join Now](https://forms.gle/hkH5UbJVBZBQo7D99)
-- 📷 Instagram: [@devsync.in](https://instagram.com/devsync.in)
-- 💼 LinkedIn: [DevSync on LinkedIn](https://www.linkedin.com/company/devsync)
+- 📬 Join Waitlist: [Join Now](https://www.devsync.in)
+- 📷 Instagram: [@devsync.in](https://instagram.com/devsyncindia)
+- 💼 LinkedIn: [DevSync on LinkedIn](https://www.linkedin.com/in/devsync)
 - ✉️ Contact: devsynccareers@gmail.com
 
 ---
